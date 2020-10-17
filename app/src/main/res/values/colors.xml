@@ -3,4 +3,6 @@
     <color name="colorPrimary">#EE0000</color>
     <color name="colorPrimaryDark">#B30000</color>
     <color name="colorAccent">#DA0303</color>
+    <color name="work">#FF8A80</color>
+    <color name="week">#67000F</color>
 </resources>
