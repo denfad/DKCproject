@@ -7,10 +7,12 @@
         tools:context=".MainActivity">
 
 
-    <CalendarView
-            android:id="@+id/calendar"
+    <sun.bob.mcalendarview.views.ExpCalendarView
+            android:layout_margin="5dp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_weight="1" />
+            android:layout_weight="1"
+            tools:context=".MainActivity"
+            android:id="@+id/calendar" />
 
 </LinearLayout>
